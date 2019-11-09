@@ -37,3 +37,10 @@ server.listen( port, ( err ) => {
 	}
 	console.log( "Server is running" );
 } );
+
+// Uncomment the following code to redirect HTTP traffic to HTTPS
+// const httpServer = require( "http" ).createServer( ( res, res ) => {
+// 	res.writeHead( 301, { Location: `https://${req.headers.host}${req.url}` } );
+// 	res.end();
+// } );
+// httpServer.listen( 80 );
