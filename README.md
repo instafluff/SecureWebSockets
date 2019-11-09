@@ -1,2 +1,2 @@
-# SecureWebSockets
-Example of Secure Web Sockets for ContentLab article by Instafluff
+# SecureWebSocketsExample
+Sample Code for ContentLab on Secure WebSockets WSS with the Cloud

@@ -1,0 +1,23 @@
+{
+  "name": "securewebsocketsexample",
+  "version": "1.0.0",
+  "description": "Sample Code for ContentLab Article by Raphael Mun on Secure WebSockets WSS with the Cloud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://instafluff:37da5c15960ddd708ff7b4f1ecd3ac7d092da5b7@github.com/instafluff/SecureWebSocketsExample.git"
+  },
+  "author": "Raphael Mun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/instafluff/SecureWebSocketsExample/issues"
+  },
+  "homepage": "https://github.com/instafluff/SecureWebSocketsExample#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "socket.io": "^2.3.0"
+  }
+}
