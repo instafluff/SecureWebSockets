@@ -18,6 +18,6 @@
   "homepage": "https://github.com/instafluff/SecureWebSocketsExample#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.5.0"
   }
 }
